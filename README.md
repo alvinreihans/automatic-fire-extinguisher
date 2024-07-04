@@ -1,4 +1,17 @@
-# Automatic fire extinguisher
+# Automatic Fire Extinguisher Project
+
+## Description
+Welcome to the Automatic Fire Extinguisher project repository. This project is developed as part of my IoT coursework and aims to automate the process of detecting and extinguishing fires using various sensors and actuators.
+
+## Features
+- Detection of smoke and fire using MQ2 Gas and Flame sensors.
+- Temperature and humidity monitoring with DHT 11.
+- Activation of a buzzer alarm upon fire detection.
+- Automatic activation of a 12V water pump for fire suppression.
+
+## Limitations
+- The project currently supports automatic activation of the water pump only.
+- Future enhancements are planned to enable targeted water pump direction to specific fire spot.
 
 <p>Module:</p>
 <ul>
